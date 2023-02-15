@@ -1,0 +1,10 @@
+C:\Users\Lenovo\OneDrive\Belgeler\Visual Studio 2019\GoruntuIsleme\GoruntuIsleme\bin\Debug\GoruntuIsleme.exe.config
+C:\Users\Lenovo\OneDrive\Belgeler\Visual Studio 2019\GoruntuIsleme\GoruntuIsleme\bin\Debug\GoruntuIsleme.exe
+C:\Users\Lenovo\OneDrive\Belgeler\Visual Studio 2019\GoruntuIsleme\GoruntuIsleme\bin\Debug\GoruntuIsleme.pdb
+C:\Users\Lenovo\OneDrive\Belgeler\Visual Studio 2019\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Belgeler\Visual Studio 2019\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.Properties.Resources.resources
+C:\Users\Lenovo\OneDrive\Belgeler\Visual Studio 2019\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.csproj.GenerateResource.cache
+C:\Users\Lenovo\OneDrive\Belgeler\Visual Studio 2019\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Belgeler\Visual Studio 2019\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.exe
+C:\Users\Lenovo\OneDrive\Belgeler\Visual Studio 2019\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.pdb
+C:\Users\Lenovo\OneDrive\Belgeler\Visual Studio 2019\GoruntuIsleme\GoruntuIsleme\obj\Debug\GoruntuIsleme.Form1.resources
